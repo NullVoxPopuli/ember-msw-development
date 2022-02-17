@@ -1,7 +1,7 @@
 # ember-msw-development
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+See the [commit history](https://github.com/NullVoxPopuli/ember-msw-development/commits/main)
+for a step-by-step walkthrough of how to setup MSW in an Ember.JS app.
 
 ## Prerequisites
 
